@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Momentum</title>
+</head>
+<body>
+    <h2 id = "clock"></h2>
+    <h3 id = "cal"></h3>
+    <button id="youtube" type="button" onclick="location.href='https://www.youtube.com/' "></button>
+    <button id="naver" type="button" onclick="location.href='https://www.naver.com/' "></button>
+    <button id="netflix" type="button" onclick="location.href='https://www.netflix.com/browse/' "></button>
+    <button id="coupang" type="button" onclick="location.href='https://www.coupang.com/' "></button>
+
+
+    <form id="login-form" class = "hidden">
+        <input  
+            required
+            maxlength = "15"
+            type="text"
+            placeholder="What is your name?"
+        />
+        <input type="submit" value = "Log In" /> 
+    </form>
+    <h1 id = "greeting" class="hidden"></h1>
+   
+    <div id="quote">
+        <span></span>
+        <span></span>
+    </div>
+
+    <script src="greetings.js"></script>
+    <script src="clock.js"></script>
+    <script src="quotes.js"></script>
+    <script src="backgoround.js"></script>
+</body>
+</html>
