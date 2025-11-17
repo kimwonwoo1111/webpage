@@ -1,16 +1,16 @@
 const images = [
-    'image_png/Image1.jpg',
-    'image_png/Image2.jpg',
-    'image_png/Image3.jpg',
-    'image_png/Image4.jpg',
-    'image_png/Image5.jpg',
-    'image_png/Image6.jpg',
-    'image_png/Image7.jpg',
-    'image_png/Image8.jpg',
-    'image_png/Image9.jpg',
-    'image_png/Image10.jpg',
-    'image_png/Image11.jpg',
-    'image_png/Image12.jpg',
+    'Image1.jpg',
+    'Image2.jpg',
+    'Image3.jpg',
+    'Image4.jpg',
+    'Image5.jpg',
+    'Image6.jpg',
+    'Image7.jpg',
+    'Image8.jpg',
+    'Image9.jpg',
+    'Image10.jpg',
+    'Image11.jpg',
+    'Image12.jpg',
 ]
 
 const chosenImage = images[Math.round(Math.random() * (images.length - 1))];
