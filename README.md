@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=Blur&color=auto&fontColor=d6ace6&height=300&section=header&text=과제2%&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Blur&color=auto&fontColor=ff0000&height=300&section=header&text=과제2%&fontSize=90)
 
 ---
 
@@ -8,7 +8,7 @@
 ![js](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![js](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=2000&color=F7F524&width=250&lines=top%2C+ps%2C+jobs%2C+kill)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=2000&color=ff0000&width=250&lines=top%2C+ps%2C+jobs%2C+kill)](https://git.io/typing-svg)
 
 ![js](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![js](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
